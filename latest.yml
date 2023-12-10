@@ -1,8 +1,8 @@
-version: 0.9.4
+version: 0.9.9
 files:
-  - url: esay-music-0.9.4-setup.exe
-    sha512: +GEvhR2cQKFYaxTLr7xKPRC0qeb4oEMPbOu2+LP3auAYO+xJGAW5Fbeb38oPwaAd11hTU/m6Y0+3wSNaIJWUNw==
-    size: 88532700
-path: esay-music-0.9.4-setup.exe
-sha512: +GEvhR2cQKFYaxTLr7xKPRC0qeb4oEMPbOu2+LP3auAYO+xJGAW5Fbeb38oPwaAd11hTU/m6Y0+3wSNaIJWUNw==
-releaseDate: '2023-12-10T11:37:02.925Z'
+  - url: esay-music-0.9.9-setup.exe
+    sha512: pi4QbV7/2g4GmbVcJWB3gfzawly80Ng40YYYAnZtwVL9wlYGbX/+Kw4bTSKLZVYL1RSH/IYqmrIrigRXy7us/g==
+    size: 88532645
+path: esay-music-0.9.9-setup.exe
+sha512: pi4QbV7/2g4GmbVcJWB3gfzawly80Ng40YYYAnZtwVL9wlYGbX/+Kw4bTSKLZVYL1RSH/IYqmrIrigRXy7us/g==
+releaseDate: '2023-12-10T12:00:56.319Z'
