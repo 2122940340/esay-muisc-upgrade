@@ -1,7 +1,7 @@
 {
     "version":"0.9.11",
     "title":"更新提示",
-    "content":"本次更新内容如下\n 1.修复了首次加载热门搜索不显示的bug\n 2.修复一些小bug 3.优化启动速度",
+    "content":"本次更新内容如下</br> 1.修复了首次加载热门搜索不显示的bug</br> 2.修复一些小bug 3.优化启动速度",
     "url":"https://rtkcxzh.lanzouv.com/iqMJ41ij7ipe",
     "btn_ok":"下载",
     "btn_end":"取消"
