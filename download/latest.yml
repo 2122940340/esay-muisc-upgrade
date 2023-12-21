@@ -1,0 +1,8 @@
+version: 0.9.10
+files:
+  - url: esay-music-0.9.10-setup.exe
+    sha512: AwhO55vkZtPra+XGrj9+qjRagsFMHGKavRUfG6QYpEahGL2rF3WNNsg3RoGLCx4xsAy0NTajtsykR7vVSMdcLg==
+    size: 92235866
+path: esay-music-0.9.10-setup.exe
+sha512: AwhO55vkZtPra+XGrj9+qjRagsFMHGKavRUfG6QYpEahGL2rF3WNNsg3RoGLCx4xsAy0NTajtsykR7vVSMdcLg==
+releaseDate: '2023-12-21T01:57:17.547Z'
