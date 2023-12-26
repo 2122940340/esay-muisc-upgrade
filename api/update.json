@@ -1,8 +1,8 @@
 {
-    "version":"0.9.12",
+    "version":"0.10.0",
     "title":"更新提示",
-    "content":"1.紧急更新！！！</br>2.修复歌单无法加载的问题",
-    "url":"https://rtkcxzh.lanzouv.com/if5so1iwln7i",
+    "content":1.修复无法正常退出的bug",
+    "url":"https://rtkcxzh.lanzouv.com/ii9ez1izb70d",
     "btn_ok":"下载",
     "btn_end":"取消"
 }
